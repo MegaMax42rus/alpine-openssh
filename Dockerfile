@@ -1,2 +1,2 @@
 FROM alpine:3.14
-RUN apk add openssh
+RUN apk add openssh rsync
